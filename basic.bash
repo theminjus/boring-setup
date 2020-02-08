@@ -9,17 +9,11 @@ sudo ln -s /var/lib/snapd/snap /snap
 sudo systemctl enable snapd
 sudo systemctl start snapd
 
-echo "------------Installing Git--------------" 
-sudo dnf install git-all -y
-
 echo "------------Installing Notepad--------------" 
 sudo snap install notepadqq
 
 echo "------------Instaling Terminator--------------" 
 sudo dnf install terminator -y
-
-echo "------------Instaling MYSQL--------------" 
-sudo snap install mysql --channel=5.7/beta
 
 echo "------------Instaling robomongo--------------" 
 sudo snap install robo3t-snap
