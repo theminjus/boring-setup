@@ -25,6 +25,7 @@ cat > ~/binding.gyp << 'EOF'
 }
 EOF
 
+sudo dnf node-gyp -y
 npm install -g node-gyp
 node-gyp configure
 
