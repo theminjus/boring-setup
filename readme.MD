@@ -1,4 +1,4 @@
-## Lazy dev introduce Boring-setup 
+# Lazy dev introduce Boring-setup 
 
 This is part of instalations scripts to make my life easy
 
@@ -6,7 +6,7 @@ Made for Fedora 31
 
 
 
-###### apps installed by basic.bash :
+## apps installed by basic.bash :
 
 * snapd
 * Notepadqq via snap
