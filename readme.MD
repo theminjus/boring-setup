@@ -29,14 +29,15 @@ To install :
   * node-gyp for 8.9.4
     
 
+###### Install all : 
 ```
 wget -pO- https://raw.githubusercontent.com/theminjus/boring-setup/master/basic.bash | bash
 ```
-Install mysql 
+###### Install mysql 
 ```
 wget -pO- https://raw.githubusercontent.com/theminjus/boring-setup/master/mysql.bash | bash
 ```
-Install nodejs
+###### Install nodejs
 ```
 wget -pO- https://raw.githubusercontent.com/theminjus/boring-setup/master/node.bash | bash
 ```
