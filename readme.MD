@@ -6,7 +6,7 @@ Made for Fedora 31
 
 
 
-## apps installed by basic.bash :
+### Apps installed by basic.bash :
 
 * snapd
 * Notepadqq via snap
