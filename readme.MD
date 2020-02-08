@@ -5,8 +5,9 @@ This is part of instalations scripts to make my life easy
 Made for Fedora 31
 
 
-how to use 
-To install :
+
+###### apps installed by basic.bash :
+
 * snapd
 * Notepadqq via snap
 * Terminator via snap
