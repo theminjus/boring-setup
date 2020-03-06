@@ -4,6 +4,7 @@ echo "------------Installing Snap--------------"
 sudo dnf install snapd -y 
 
 sudo dnf update -y
+sudo dnf install gcc-c++ -y
 
 sudo ln -s /var/lib/snapd/snap /snap
 sudo systemctl enable snapd
