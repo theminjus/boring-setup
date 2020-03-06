@@ -48,7 +48,7 @@ sudo wget -qO- https://raw.githubusercontent.com/nagygergo/jetbrains-toolbox-ins
 
 echo "------------Downloading MysqlWorkbench--------------" 
 wget https://cdn.mysql.com//Downloads/MySQLGUITools/mysql-workbench-community-8.0.19-1.fc31.x86_64.rpm
-rpm mysql-workbench-community-8.0.19-1.fc31.x86_64.rpm --install
+sudo rpm mysql-workbench-community-8.0.19-1.fc31.x86_64.rpm --install
 rm mysql-workbench-community-8.0.19-1.fc31.x86_64.rpm
 
 
