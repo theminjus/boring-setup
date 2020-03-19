@@ -4,6 +4,9 @@ sudo dnf install git-all -y
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
 source ~/.bashrc
 
+sudo yum install gcc-c++ cairo-devel libjpeg-turbo-devel pango-devel giflib-devel
+
+
 echo "-----Setup node versions-------" 
 nvm install 8.9.4
 nvm install 0.12.15
